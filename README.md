@@ -2,7 +2,7 @@
 practice api connect
 
 #Setting Up the Project
-install node and npm
-npm install express
-npm install axios
-npm install ejs
+#install node and npm
+#npm install express
+#npm install axios
+#npm install ejs
